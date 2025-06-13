@@ -1,0 +1,62 @@
+name: delivery_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  intl: ^0.20.2
+  animated_text_kit: ^4.2.3
+  smooth_page_indicator: ^1.2.1
+  dots_indicator: ^4.0.1
+  google_fonts: ^6.2.1
+  flutter_bloc: ^9.1.1
+  carousel_slider: ^5.0.0
+  animate_do: ^4.2.0
+  iconsax: ^0.0.8
+  curved_navigation_bar: ^1.0.6
+  provider: ^6.1.5
+  dotted_line: ^3.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/icons/
+    - assets/onboarding/
+  #   - images/a_dot_ham.jpeg
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto/Roboto-Bold.ttf
+          weight: 800
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
