@@ -31,3 +31,8 @@
 ---
 
 ## 🤝 Contributing
+
+---
+
+## 👤 Author
+**Adebayo Wariz**  
