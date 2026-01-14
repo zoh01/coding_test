@@ -27,3 +27,7 @@
 ---
 
 ## ⚙️ How It Works
+
+---
+
+## 🤝 Contributing
