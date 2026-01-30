@@ -43,6 +43,7 @@ In today's digital age, content creation has become more important than ever. Ho
 ---
 
 ## 🔧 Tools and Libraries Used
+1.  Core Technologies
 
 ---
 
