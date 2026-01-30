@@ -47,6 +47,7 @@ In today's digital age, content creation has become more important than ever. Ho
 2.  State Management
 3.  Backend & Database
 4.  Rich Text Editing
+5.  Image Handling
 
 ---
 
