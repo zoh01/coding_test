@@ -34,6 +34,7 @@ In today's digital age, content creation has become more important than ever. Ho
 
 ## 🛠️ My Approach
 ### Development Philosophy
+### Architecture Pattern
 
 ---
 
