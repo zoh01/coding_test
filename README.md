@@ -46,6 +46,7 @@ In today's digital age, content creation has become more important than ever. Ho
 1.  Core Technologies
 2.  State Management
 3.  Backend & Database
+4.  Rich Text Editing
 
 ---
 
