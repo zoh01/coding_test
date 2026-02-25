@@ -27,7 +27,6 @@ In today's digital age, content creation has become more important than ever. Ho
 **For Writers**
 **For Readers**
 ### The Solution: 
-**For Writers**
 
 ---
 
