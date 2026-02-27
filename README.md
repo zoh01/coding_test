@@ -31,8 +31,7 @@ A modern, feature-rich blogging platform built with Flutter that empowers writer
 ---
 
 ## 👤 Author
-**Adebayo Wariz**  
-
+**Adebayo 
 ### 📧 Contact
 Whatsapp: +234 702 513 6608
 
@@ -42,7 +41,7 @@ LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
 
 GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
-Project Link: [https://github.com/zoh01/coding_test](https://github.com/zoh01/coding_test)
+Project Link: [https://github.com/zoh01/coding_test]()
 
 ## 📄 License
 Distributed under the MIT License. See LICENSE file for more information.
