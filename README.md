@@ -7,7 +7,6 @@
 
 
 
-[Features](#-features) • [Installation](#-installation) • [Architecture](#-my-approach) • [Tech Stack](#-tools-and-libraries-used)
 
 </div>
 
