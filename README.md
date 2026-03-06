@@ -1,9 +1,5 @@
 
 
-## 🛠️ My Approach
-
----
-
 ## 🤝 Contributing
 
 ---
