@@ -1,8 +1,5 @@
 
 
-## 🤝 Contributing
-
----
 
 ## 👤 Author
 **Adebayo 
