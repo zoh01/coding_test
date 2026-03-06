@@ -2,11 +2,6 @@
 <div align="center">
 
 
-
----
-
-## 📖 Introduction
-
 ---
 
 ## 🎯 Overview
