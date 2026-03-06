@@ -1,8 +1,4 @@
-# delivery_app
-<div align="center">
 
-
----
 
 ## 🎯 Overview
 
