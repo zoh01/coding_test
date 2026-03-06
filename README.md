@@ -1,10 +1,5 @@
 
 
-## 🎯 Overview
-
-
----
-
 ## 🛠️ My Approach
 
 ---
