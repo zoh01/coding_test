@@ -15,9 +15,7 @@ GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 Project Link: [https://github.com/zoh01/coding_test]()
 
 ## 📄 License
-Distributed under the MIT License. See .
 
-      MIT License
       
       Copyright (c) 2025 [Adebayo Wariz]
       
