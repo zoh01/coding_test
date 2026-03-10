@@ -2,5 +2,4 @@
 
 
 ## 👤 Author
-**Adebayo 
-### 📧 Contact
+**Adebayo
