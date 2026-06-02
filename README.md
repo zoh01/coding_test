@@ -14,3 +14,5 @@ A comprehensive hostel management solution built with Flutter for seamless admin
 [Features](#-features) • [Installation](#-installation) • [Architecture](#-my-approach) • [Tech Stack](#-tools-and-libraries-used)
 
 </div>
+
+---
