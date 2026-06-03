@@ -36,3 +36,10 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ## 🛠️ Tech Stack
+    # Core
+    flutter: ^3.0.0
+    dart: ^3.0.0
+    
+    # State Management
+    provider: ^latest              # State management
+    # or flutter_bloc: ^latest
