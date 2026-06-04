@@ -43,3 +43,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
     # State Management
     provider: ^latest              # State management
     # or flutter_bloc: ^latest
+
+    # Networking
+    http: ^latest                  # HTTP requests
+    dio: ^latest                   # Advanced HTTP client
