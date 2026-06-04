@@ -60,3 +60,5 @@ A sleek, modern weather application built with Flutter that provides real-time w
 
     # Storage
     shared_preferences: ^latest    # Local storage
+
+### Get Your API Key
