@@ -51,3 +51,9 @@ A sleek, modern weather application built with Flutter that provides real-time w
     # Location
     geolocator: ^latest            # GPS location
     geocoding: ^latest             # Reverse geocoding
+
+    # UI
+    google_fonts: ^latest          # Custom fonts
+    intl: ^latest                  # Date formatting
+    lottie: ^latest               # Animations
+    cached_network_image: ^latest  # Image caching
