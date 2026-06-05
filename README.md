@@ -76,3 +76,5 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - OpenWeatherMap API Key [Get Free API Key](https://openweathermap.org/api)
 
 ---
+
+### Setup
