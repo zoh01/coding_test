@@ -67,3 +67,6 @@ A sleek, modern weather application built with Flutter that provides real-time w
 3. Navigate to **API Keys** section
 4. Copy your **API key**
 5. Paste it in api.env file
+
+---
+
