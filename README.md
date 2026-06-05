@@ -71,3 +71,5 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ## 🚀 Installation
+### Prerequisites
+
