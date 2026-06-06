@@ -100,3 +100,6 @@ A sleek, modern weather application built with Flutter that provides real-time w
 2.  Type city name (e.g., "London", "New York")
 3.  Select from suggestions
 4.  View weather details
+
+---
+
