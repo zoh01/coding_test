@@ -148,3 +148,5 @@ This app uses the **OpenWeatherMap API:**
       - units: metric/imperial
 
 ---
+
+## 🎨 Customization
