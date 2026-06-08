@@ -130,3 +130,5 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ## 🌐 API Reference
+
+This app uses the **OpenWeatherMap API:**
