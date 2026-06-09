@@ -146,5 +146,3 @@ This app uses the **OpenWeatherMap API:**
       - q: City name
       - appid: Your API key
       - units: metric/imperial
-
----
