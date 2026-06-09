@@ -101,6 +101,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
 3.  Select from suggestions
 4.  View weather details
 
----
-
-## 🏗️ Project Structure
