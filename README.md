@@ -122,9 +122,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
     │   ├── weather_card.dart
     │   └── forecast_item.dart
     └── main.dart
-
----
-
-## 📱 App Preview
-
----
