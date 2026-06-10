@@ -90,8 +90,5 @@ A sleek, modern weather application built with Flutter that provides real-time w
     echo "WEATHER_API_KEY=your_api_key_here" > api.env
     
     # 4. Run the app
-    flutter run
-
----
 
 
