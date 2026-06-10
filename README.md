@@ -55,9 +55,4 @@ A sleek, modern weather application built with Flutter that provides real-time w
     # UI
     google_fonts: ^latest          # Custom fonts
     intl: ^latest                  # Date formatting
-    lottie: ^latest               # Animations
-    cached_network_image: ^latest  # Image caching
-
-    # Storage
-    shared_preferences: ^latest    # Local storage
 
