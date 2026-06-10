@@ -84,8 +84,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
     
     # 2. Install dependencies
     flutter pub get
-    
-    # 3. Configure API Key
-    # Open api.env file and add your API key:
-    echo "WEATHER_API_KEY=your_api_key_here" > api.env
-
