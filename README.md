@@ -61,11 +61,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
     # Storage
     shared_preferences: ^latest    # Local storage
 
-### Get Your API Key
-1. Visit [OpenWeatherMap](https://openweathermap.org/api)
-2. Sign up for a free account
-3. Navigate to **API Keys** section
-4. Copy your **API key**
-5. Paste it in api.env file
-
-
