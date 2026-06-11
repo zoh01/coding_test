@@ -28,5 +28,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ### 🏠 Room Management
 ### 🔔 Additional Features
 
----
-
