@@ -48,7 +48,3 @@ A sleek, modern weather application built with Flutter that provides real-time w
     http: ^latest                  # HTTP requests
     dio: ^latest                   # Advanced HTTP client
 
-    # Location
-    geolocator: ^latest            # GPS location
-    geocoding: ^latest             # Reverse geocoding
-
