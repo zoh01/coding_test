@@ -11,6 +11,4 @@ In today's digital age, content creation has become more important than ever. Ho
 
 A comprehensive hostel management solution built with Flutter for seamless administration and guest management.
 
-[Features](#-features) • [Installation](#-installation) • [Architecture](#-my-approach) • [Tech Stack](#-tools-and-libraries-used)
-
 
