@@ -13,8 +13,6 @@ A comprehensive hostel management solution built with Flutter for seamless admin
 
 [Features](#-features) • [Installation](#-installation) • [Architecture](#-my-approach) • [Tech Stack](#-tools-and-libraries-used)
 
-</div>
-
 
 ## 📖 Introduction
 A sleek, modern weather application built with Flutter that provides real-time weather information and forecasts for any location worldwide. Get accurate weather updates with a beautiful, intuitive interface.
